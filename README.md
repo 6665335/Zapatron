@@ -1,6 +1,6 @@
 
 <h3 align="center">
-# Welcome to my profile!
+#Welcome to my profile!
 
 **Hello here!, im currently not using github right now because i dont code anything cool yet**
 
